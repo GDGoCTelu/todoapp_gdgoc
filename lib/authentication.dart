@@ -1,6 +1,4 @@
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:gdgoc_firebase/todo_page.dart';
 
 class Authentication extends StatefulWidget {
   const Authentication({super.key});
